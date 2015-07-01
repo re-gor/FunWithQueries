@@ -1,0 +1,5 @@
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicQueryParser\bin\Debug\LogicQueryParser.dll
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicQueryParser\bin\Debug\LogicQueryParser.pdb
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicQueryParser\obj\Debug\LogicQueryParser.csprojResolveAssemblyReference.cache
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicQueryParser\obj\Debug\LogicQueryParser.dll
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicQueryParser\obj\Debug\LogicQueryParser.pdb

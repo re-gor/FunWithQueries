@@ -1,0 +1,10 @@
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\Bykhovtsev.FunWithQueries.exe.config
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\obj\Debug\Bykhovtsev.FunWithQueries.csprojResolveAssemblyReference.cache
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\Bykhovtsev.FunWithQueries.exe
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\Bykhovtsev.FunWithQueries.pdb
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\LogicalQueries.dll
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\LogicalQueries.pdb
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\obj\Debug\Bykhovtsev.FunWithQueries.exe
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\obj\Debug\Bykhovtsev.FunWithQueries.pdb
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\LogicQueryParser.dll
+C:\Users\Gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\Bykhovtsev.FunWithQueries\bin\Debug\LogicQueryParser.pdb

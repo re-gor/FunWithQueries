@@ -1,0 +1,5 @@
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicalQueries\obj\Debug\LogicalQueries.csprojResolveAssemblyReference.cache
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicalQueries\bin\Debug\LogicalQueries.dll
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicalQueries\bin\Debug\LogicalQueries.pdb
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicalQueries\obj\Debug\LogicalQueries.dll
+c:\users\gor\documents\visual studio 2013\Projects\Bykhovtsev.FunWithQueries\LogicalQueries\obj\Debug\LogicalQueries.pdb
